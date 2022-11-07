@@ -8,7 +8,7 @@ Meu nome é Gabriel, tenho 29 anos, sou editor de vídeos/cinegrafista, formado 
 
 ### Hard Skills:
 <table >
-  <tr padding="0" align="center">
+  <tr align="center">
     <td ><img src="https://camo.githubusercontent.com/b9fe9f8e52c6fd30d814c24f3eb71cb09d7f5bc82d7f67a384055de93fdbb0bf/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352d2d76312e706e67" width="48x"/></td>
     <td><img src="https://camo.githubusercontent.com/dc75aee770dff630309493116eeebd6a39c7042e4e94780a5e6c8f107bebe76f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f637373332e706e67" width="48x"/></td>
     <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-programming-language-icon.png" width="43x"/></td>
@@ -19,24 +19,22 @@ Meu nome é Gabriel, tenho 29 anos, sou editor de vídeos/cinegrafista, formado 
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" width="50x"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" width="43x"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="43x"/></td>
-    <td><img src="https://camo.githubusercontent.com/bc60041f5ea7b022c6419b73a15aaac12a2ede682867ec0d3e3c9ec374dce54b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6769742e706e67" width="48x"/></td>
     <td><img src="https://camo.githubusercontent.com/0c9a930bd32192f585b6b9ad5fcb75409d39f8a0613115caed636d6882263718/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f6769746875622e706e67" width="48x"/></td>
     <td><img src="https://camo.githubusercontent.com/2f7d9c653bd1edd735b3db07d7c4b47ae45959e17c14053fa4f543ac93cc1a8c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67" width="48x"/></td>
   </tr >
-  <tr align="center">
-   <td>HTML5 </td>
-    <td>CSS3 </td>
-    <td>JavaScript </td>
-    <td>ReactJS </td>
-    <td>TailwindCSS </td>
-    <td>JQuery </td>
-    <td>Java </td>
-    <td>PHP </td>
-    <td>MySQL </td>
-    <td>Figma </td>
-    <td>Git </td>
-    <td>GitHub </td>
-    <td>VS Code</td>
+  <tr align="center" >
+   <td><font size="">HTML5 </td>
+    <td><font size="3">CSS3 </td>
+    <td><font size="3">JavaScript </td>
+    <td><font size="3">ReactJS </td>
+    <td><font size="3">TailwindCSS </td>
+    <td><font size="3">JQuery </td>
+    <td><font size="3">Java </td>
+    <td><font size="3">PHP </td>
+    <td><font size="3">MySQL </td>
+    <td><font size="3">Figma </td>
+    <td><font size="3">GitHub </td>
+    <td><font size="3">VS Code</td>
    </tr>
 </table>
 
