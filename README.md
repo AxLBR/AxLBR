@@ -4,7 +4,7 @@
 ### Sobre mim:
 Meu nome é Gabriel, tenho 29 anos, sou editor de vídeos/cinegrafista, formado em Ciência da Computação, e com diversos conhecimentos em tecnologia e programação. Atuo na Universidade La Salle desde 2014 em projetos audiovisuais universitários, e produção de videoaulas em EAD. 
 
-[![](https://github-readme-stats.vercel.app/api?username=AxLBR&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/AxLBR)[![](https://github-readme-stats.vercel.app/api/top-langs/?username=AxLBR&layout=compact&theme=radical)](https://github.com/AxLBR)
+[![](https://github-readme-stats-sigma-five.vercel.app/api?username=AxLBR&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/AxLBR)[![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AxLBR&layout=compact&theme=radical)](https://github.com/AxLBR)
 
 ### Hard Skills:
 <table >
