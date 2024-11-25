@@ -4,7 +4,7 @@
 ### Sobre mim:
 Meu nome é Gabriel, tenho 30 anos, sou editor de vídeos, cinegrafista e desenvolvedor front-end, formado em Ciência da Computação, e com diversos conhecimentos em tecnologia e programação. Desde 2014, venho desenvolvendo projetos audiovisuais e de desenvolvimento. Além de atuar como freelancer na área da TI e audiovisual desde 2018, desenvolvendo sites e realizando edições audiovisuais para diversos clientes.
 
-[![](https://github-readme-stats-sigma-five.vercel.app/api?username=AxLBR&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/AxLBR)[![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AxLBR&layout=compact&theme=radical)](https://github.com/AxLBR)
+[![](https://github-stats-readme-ivory.vercel.app/api?username=AxLBR&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/AxLBR)[![](https://github-stats-readme-ivory.vercel.app/api/top-langs/?username=AxLBR&layout=compact&theme=radical)](https://github.com/AxLBR)
 
 ### Hard Skills:
 <table >
