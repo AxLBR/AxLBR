@@ -2,7 +2,7 @@
 # Olá Mundo ! Seja bem-vindo !
 ![](https://visitor-badge.laobi.icu/badge?page_id=AxLBR.AxLBR)  [![](https://img.shields.io/github/followers/AxLBR?label=Follow&style=social)](https://github.com/AxLBR)
 ### Sobre mim:
-Meu nome é Gabriel, tenho 31 anos, sou editor de vídeos, cinegrafista e desenvolvedor front-end, formado em Ciência da Computação, e com diversos conhecimentos em tecnologia e programação. Desde 2014, venho desenvolvendo projetos audiovisuais e de desenvolvimento. Além de atuar como freelancer na área da TI e audiovisual desde 2018, desenvolvendo sites e realizando edições audiovisuais para diversos clientes.
+Meu nome é Gabriel, tenho 32 anos, sou editor de vídeos, cinegrafista e desenvolvedor front-end, formado em Ciência da Computação, e com diversos conhecimentos em tecnologia e programação. Desde 2014, venho desenvolvendo projetos audiovisuais e de desenvolvimento. Além de atuar como freelancer na área da TI e audiovisual desde 2018, desenvolvendo sites e realizando edições audiovisuais para diversos clientes.
 
 [![](https://github-stats-readme-ivory.vercel.app/api?username=AxLBR&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/AxLBR)[![](https://github-stats-readme-ivory.vercel.app/api/top-langs/?username=AxLBR&layout=compact&theme=radical)](https://github.com/AxLBR)
 
